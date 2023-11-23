@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Additionally, this project will create a database with a table in the current directory. Creating a new table is only needed the first time running this app. Please modify the 7th line of code **main.py**  from *True* to *False*, after the first execution of script.
 
 ```python
-app = ProgressTrackerApp(root, app = ProgressTrackerApp(root, erase_start_over=True))
+app = ProgressTrackerApp(root, erase_start_over=True) 
 ```
 
 ### My experience with phind:
