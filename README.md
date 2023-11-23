@@ -490,9 +490,9 @@ if __name__ == "__main__":
 
 #### Attempt #3
 
-<details open>
-  <summary>Hello</summary>
-
+<details>
+  <summary>Click me</summary>
+  
 An additional feature to edit data hours for a given skill and date. 
 ##### Prompt:
 
@@ -755,8 +755,9 @@ The bar charts sometimes overlap, and it is hard to read the date and skill. Als
 
 #### Attempt #4 (end)
 
-<details open>
-  <summary>Hello</summary>
+<details>
+  <summary>Click me</summary>
+
 
 In this attempt, I will break into several scripts and use Object-Oriented-Programming such as classes. Moreover, I will add error checking feature to the function **def log_hours()**.
 
