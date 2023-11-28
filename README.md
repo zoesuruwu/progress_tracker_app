@@ -1,6 +1,6 @@
-## Progress Tracker app in Python
+## Progress Tracker app in Python using prompt engineering
 
-This repo walks through the back-and-forth process of creating a simple progress tracker app with the use of [phind](https://www.phind.com/) and [ChatGPT](https://chat.openai.com/). Parts of conversations and adjustments of the prompt response will be included in this project. 
+This repo walks through the prompt engineering process of creating a simple progress tracker app with the use of generative AI tools: [phind](https://www.phind.com/) and [ChatGPT](https://chat.openai.com/). Parts of conversations and adjustments of the prompt response will be included in this project. 
 
 This app keeps track of the hours spent on learning a skill every day and plots the bar chart over the progress over time. It also allows the user to adjust the hours on a given date and skill.
 
